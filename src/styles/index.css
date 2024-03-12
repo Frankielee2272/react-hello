@@ -1,11 +1,19 @@
-
 /* 
 
     You can write your own styles here...
+
+    .bigCounter div{
+        display: inline-block;
+        font-size: 20px;
+        line-height: 20px;
+        height: 20px;
+    }
+    .number{
+        font-size: 40px;
+        line-height: 40px;
+        height: 40px;
+    }
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
     
     import 'relative/path/to/stylesheet.scss';
 
